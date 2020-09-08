@@ -1,12 +1,13 @@
+::-webkit-scrollbar { width: 0; }
+:root { scrollbar-width: none; }
+
 * {
    margin: 0;
    padding: 0;
    box-sizing: border-box;
 }
 
-body {
-   background-color: #232323;
-}
+body { background-color: #232323; }
 
 h1 {
    text-align: center; 
